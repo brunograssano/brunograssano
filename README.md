@@ -12,6 +12,10 @@
 </a>
 </details>
 
+
+<br>
+<br>
+
 <b>Contact me</b>
 
 <a href="https://brunograssano.github.io/">
