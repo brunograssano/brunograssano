@@ -1,5 +1,8 @@
 
+<details>
+<summary>Hello there</summary>
 <img src="https://media2.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello there">
+</details>
 
 <!--
 **brunograssano/brunograssano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
