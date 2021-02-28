@@ -17,19 +17,12 @@
 </details>
 
 
-
-
 <details>
+ 
 <summary><b>FIUBA</b></summary>
-<a href="https://brunograssano.github.io/fiuba.html">
-<img align="left" alt="" height="60px" src="http://www.fi.uba.ar/sites/default/files/logo.png"/>
-</a>
+<p>Material recolectado a lo largo de mi cursada en FIUBA <a href="https://brunograssano.github.io/fiuba.html">aqui</a>.</p>
+  
 </details>
-
-
-<br>
-<br>
-<br>
 
 <b>Contact me</b>
 
