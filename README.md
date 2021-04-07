@@ -27,10 +27,12 @@
 <b>Contact me</b>
 
 <a href="https://brunograssano.github.io/">
-<img align="left" alt="" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/3324/3324799.svg?token=exp=1614445895~hmac=b1156f26ab384da3b7f3cf3e7f3b28ee"/>
+<img align="left" alt="" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/4365/4365934.svg?token=exp=1617810828~hmac=cbf0a8afe2a801d50c0ad54628becd42"/>
 </a>
 
+
+
 <a href="https://www.linkedin.com/in/bruno-grassano/">
-<img align="left" alt="in/bruno-grassano/" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614444770~hmac=5fc27ce07c26ccc043e050ce6074d3ae"/>
+<img align="left" alt="in/bruno-grassano/" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
 
