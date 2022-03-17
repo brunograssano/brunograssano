@@ -26,13 +26,7 @@
 
 <b>Contact me</b>
 
-<a href="https://brunograssano.github.io/">
-<img align="left" alt="" height="30px" src="https://image.flaticon.com/icons/png/512/893/893505.png"/>
-</a>
-
-
-
 <a href="https://www.linkedin.com/in/bruno-grassano/">
-<img align="left" alt="in/bruno-grassano/" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+<p>in/bruno-grassano</p>
 </a>
 
