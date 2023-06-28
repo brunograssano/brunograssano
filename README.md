@@ -20,7 +20,7 @@
 <details>
  
 <summary><b>FIUBA</b></summary>
-<p>Material recolectado a lo largo de mi cursada en FIUBA <a href="https://brunograssano.github.io/fiuba.html">aqui</a>.</p>
+<p>Material recolectado a lo largo de mi cursada en FIUBA <a href="https://github.com/brunograssano?tab=repositories&q=fiuba">aqui</a>.</p>
   
 </details>
 
